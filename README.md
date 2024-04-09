@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm blkshhh (Miguel)</h1>
+<h1 align="center">Hi 👋, I'm aalbgar1603 (Miguel)</h1>
 <h3 align="center">I am a young student trying to become a backend developer.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
